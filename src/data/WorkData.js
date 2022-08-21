@@ -12,7 +12,7 @@ export const Work = [
         id:2,
         name:"Salah Music Portfolio",
         description:"A Portfolio website build in Wordpress.",
-        tags:["react","sass"],
+        tags:["wordpress"],
         
         demo:"https://salahmusicofficial.com/",
         github:"https://salahmusicofficial.com/"
